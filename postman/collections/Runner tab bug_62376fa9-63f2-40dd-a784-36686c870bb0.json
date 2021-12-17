@@ -1,0 +1,16 @@
+{
+    "info": {
+        "_postman_id": "b590a4f0-ab98-4dee-a3e8-848ebb5c96f6",
+        "name": "Runner tab bug",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [],
+    "variable": [
+        {
+            "id": "0cd72c59-11bf-4781-9b00-93b8e1a63d72",
+            "key": "baseUrl",
+            "value": "http://localhost:3000",
+            "type": "string"
+        }
+    ]
+}
